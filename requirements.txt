@@ -5,3 +5,4 @@ numpy
 xgboost
 scikit-learn
 python-multipart
+openpyxl
