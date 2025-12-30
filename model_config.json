@@ -1,0 +1,14 @@
+{
+  "data_path": "C:\\Users\\Admin\\Desktop\\3dstatisticallearning\\Use Cases\\Use Cases Machine Learning\\Sebastian_Zahlenreihe\\Predict Next Number\\Predict Next Number\\Mappe_nagelneu_new.xlsx",
+  "sequence_length": 10,
+  "hidden_dim": 256,
+  "num_heads": 8,
+  "num_layers": 3,
+  "dropout": 0.2,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "epochs": 200,
+  "patience": 25,
+  "best_val_acc": 1.4629955266547554,
+  "best_val_loss": 4.251812696456909
+}
